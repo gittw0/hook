@@ -1,5 +1,5 @@
 with spaces      
-234            
+234              33  
 
 
 Не получилось pre-commit использовать для pre-receive
